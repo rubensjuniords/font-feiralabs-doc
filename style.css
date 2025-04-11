@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?wukpto');
-  src:  url('fonts/font-feiralabs.eot?wukpto#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?wukpto') format('truetype'),
-    url('fonts/font-feiralabs.woff?wukpto') format('woff'),
-    url('fonts/font-feiralabs.svg?wukpto#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?g77kcb');
+  src:  url('fonts/font-feiralabs.eot?g77kcb#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?g77kcb') format('truetype'),
+    url('fonts/font-feiralabs.woff?g77kcb') format('woff'),
+    url('fonts/font-feiralabs.svg?g77kcb#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fl-medal-solid:before {
+  content: "\e94f";
+}
+.fl-store-regular_1:before {
+  content: "\e950";
+}
+.fl-store-solid:before {
+  content: "\e951";
+}
+.fl-medal-regular:before {
+  content: "\e952";
+}
+.fl-verified-regular:before {
+  content: "\e953";
+}
+.fl-verified-solid:before {
+  content: "\e954";
+}
 .fl-brands-jcb-regular:before {
   content: "\e941";
 }
