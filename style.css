@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?g77kcb');
-  src:  url('fonts/font-feiralabs.eot?g77kcb#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?g77kcb') format('truetype'),
-    url('fonts/font-feiralabs.woff?g77kcb') format('woff'),
-    url('fonts/font-feiralabs.svg?g77kcb#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?jz6eu4');
+  src:  url('fonts/font-feiralabs.eot?jz6eu4#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?jz6eu4') format('truetype'),
+    url('fonts/font-feiralabs.woff?jz6eu4') format('woff'),
+    url('fonts/font-feiralabs.svg?jz6eu4#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,258 +25,321 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fl-medal-solid:before {
-  content: "\e94f";
-}
-.fl-store-regular_1:before {
-  content: "\e950";
-}
-.fl-store-solid:before {
-  content: "\e951";
-}
-.fl-medal-regular:before {
-  content: "\e952";
-}
-.fl-verified-regular:before {
-  content: "\e953";
-}
-.fl-verified-solid:before {
-  content: "\e954";
-}
-.fl-brands-jcb-regular:before {
-  content: "\e941";
-}
-.fl-brands-jcb-solid:before {
-  content: "\e942";
-}
-.fl-brands-hiper-regular:before {
-  content: "\e943";
-}
-.fl-brands-hiper-solid:before {
-  content: "\e944";
-}
-.fl-brands-diners-regular:before {
-  content: "\e945";
-}
-.fl-brands-diners-solid:before {
-  content: "\e946";
-}
-.fl-brands-amex-regular:before {
-  content: "\e947";
-}
-.fl-brands-amex-solid:before {
-  content: "\e948";
-}
-.fl-brands-visa-regular:before {
-  content: "\e949";
-}
-.fl-brands-visa-solid:before {
-  content: "\e94a";
-}
-.fl-brands-master-card-regular:before {
-  content: "\e94b";
-}
-.fl-brands-master-card-solid:before {
-  content: "\e94c";
-}
-.fl-brands-pix-regular:before {
-  content: "\e94d";
-}
-.fl-brands-pix-solid:before {
-  content: "\e94e";
-}
-.fl-feiralabs-regular:before {
-  content: "\e939";
-}
-.fl-feiralabs-solid:before {
-  content: "\e93a";
-}
-.fl-two-card-regular:before {
-  content: "\e93b";
-}
-.fl-barcode-regular:before {
-  content: "\e93c";
-}
-.fl-barcode-solid:before {
-  content: "\e93d";
-}
-.fl-expand-glass:before {
-  content: "\e93e";
-}
-.fl-garantia-25-regular:before {
-  content: "\e904";
-}
-.fl-dmo-regular:before {
-  content: "\e937";
-}
-.fl-home-regular:before {
-  content: "\e93f";
-}
-.fl-home-solid:before {
-  content: "\e936";
-}
-.fl-location-dot-regular:before {
-  content: "\e940";
-}
-.fl-location-dot-solid:before {
-  content: "\e938";
-}
-.fl-futbol-regular:before {
-  content: "\e935";
-}
-.fl-bat-regular:before {
+.fl-badge-percent-solid:before {
   content: "\e900";
 }
-.fl-bat-solid:before {
+.fl-circle-user-regular:before {
   content: "\e901";
 }
-.fl-lingerie-regular:before {
-  content: "\e924";
-}
-.fl-dress-regular:before {
+.fl-circle-user-solid:before {
   content: "\e902";
 }
-.fl-floater-regular:before {
+.fl-badge-percent-regular:before {
   content: "\e903";
 }
-.fl-moto-regular:before {
+.fl-coins-regular:before {
+  content: "\e904";
+}
+.fl-coins-solid:before {
   content: "\e905";
 }
-.fl-arrows-rotate-regular:before {
+.fl-hand-holding-dollar-regular:before {
   content: "\e906";
 }
-.fl-circle-question-regular:before {
+.fl-hand-holding-dollar-solid:before {
   content: "\e907";
 }
-.fl-circle-question-solid:before {
+.fl-handshake-regular:before {
   content: "\e908";
 }
-.fl-fire-regular:before {
-  content: "\e90a";
-}
-.fl-fire-solid:before {
-  content: "\e90b";
-}
-.fl-heart-regular:before {
-  content: "\e90c";
-}
-.fl-heart-solid:before {
-  content: "\e90d";
-}
-.fl-lock-regular:before {
-  content: "\e90e";
-}
-.fl-motofeira-regular:before {
-  content: "\e90f";
-}
-.fl-store-regular:before {
-  content: "\e910";
-}
-.fl-address-card-regular:before {
-  content: "\e911";
-}
-.fl-baby-boy-regular:before {
-  content: "\e912";
-}
-.fl-backpack-regular:before {
-  content: "\e913";
-}
-.fl-bag-regular:before {
-  content: "\e914";
-}
-.fl-beauty-regular:before {
-  content: "\e915";
-}
-.fl-bolt-regular:before {
-  content: "\e916";
-}
-.fl-cart-solid:before {
-  content: "\e919";
-}
-.fl-cart-regular:before {
-  content: "\e918";
-}
-.fl-case-notebook-regular:before {
-  content: "\e91a";
-}
-.fl-christmas-regular:before {
-  content: "\e91b";
-}
-.fl-clock-solid:before {
-  content: "\e91d";
-}
-.fl-clock-regular:before {
-  content: "\e91c";
-}
-.fl-credit-card-regular:before {
-  content: "\e91e";
-}
-.fl-descount-regular:before {
-  content: "\e91f";
-}
-.fl-feira-regular:before {
-  content: "\e920";
-}
-.fl-feira-solid:before {
+.fl-handshake-solid:before {
   content: "\e909";
 }
-.fl-bolt-solid:before {
+.fl-list-check-regular:before {
+  content: "\e90a";
+}
+.fl-list-check-solid:before {
+  content: "\e90b";
+}
+.fl-ticket-regular:before {
+  content: "\e90c";
+}
+.fl-ticket-solid:before {
+  content: "\e90d";
+}
+.fl-truck-regular:before {
+  content: "\e90e";
+}
+.fl-truck-solid:before {
+  content: "\e90f";
+}
+.fl-users-line-regular:before {
+  content: "\e910";
+}
+.fl-users-line-solid:before {
+  content: "\e911";
+}
+.fl-bars-regular:before {
+  content: "\e912";
+}
+.fl-bars-solid:before {
+  content: "\e913";
+}
+.fl-box-regular:before {
+  content: "\e914";
+}
+.fl-cart-regular:before {
+  content: "\e915";
+}
+.fl-cart-solid:before {
+  content: "\e916";
+}
+.fl-clipboard-list-regular:before {
   content: "\e917";
 }
-.fl-female-wallet-regular:before {
+.fl-clipboard-list-solid:before {
+  content: "\e918";
+}
+.fl-cubes-regular:before {
+  content: "\e919";
+}
+.fl-cubes-solid:before {
+  content: "\e91a";
+}
+.fl-envelope-regular:before {
+  content: "\e91b";
+}
+.fl-envelope-solid:before {
+  content: "\e91c";
+}
+.fl-search-glass-regular:before {
+  content: "\e91d";
+}
+.fl-search-glass-solid:before {
+  content: "\e91e";
+}
+.fl-user-regular:before {
+  content: "\e91f";
+}
+.fl-user-solid:before {
+  content: "\e920";
+}
+.fl-warehouse-regular:before {
   content: "\e921";
 }
-.fl-garantia-feira-regular:before {
+.fl-warehouse-solid:before {
   content: "\e922";
 }
-.fl-headphone-regular:before {
+.fl-angle-down-regular:before {
   content: "\e923";
 }
-.fl-make-regular:before {
+.fl-angle-down-solid:before {
+  content: "\e924";
+}
+.fl-angle-left-regular:before {
   content: "\e925";
 }
-.fl-male-wallet-regular:before {
+.fl-angle-left-solid:before {
   content: "\e926";
 }
-.fl-necessaire-regular:before {
+.fl-angle-right-regular:before {
   content: "\e927";
 }
-.fl-new-regular:before {
+.fl-angle-right-solid:before {
   content: "\e928";
 }
-.fl-paper-regular:before {
+.fl-angle-up-regular:before {
   content: "\e929";
 }
-.fl-shild-check-regular:before {
+.fl-angle-up-solid:before {
   content: "\e92a";
 }
-.fl-star-regular:before {
+.fl-arrow-right-regular:before {
   content: "\e92b";
 }
-.fl-tag-regular:before {
+.fl-arrow-right-solid:before {
   content: "\e92c";
 }
-.fl-toy-regular:before {
+.fl-box-solid:before {
   content: "\e92d";
 }
-.fl-truck-clock-solid:before {
-  content: "\e92f";
-}
-.fl-truck-clock-regular:before {
+.fl-gauge-regular:before {
   content: "\e92e";
 }
-.fl-users-solid:before {
-  content: "\e932";
+.fl-gauge-solid:before {
+  content: "\e92f";
 }
-.fl-users-regular:before {
+.fl-store-regular:before {
+  content: "\e930";
+}
+.fl-store-solid:before {
   content: "\e931";
 }
-.fl-utilities-regular:before {
+.fl-dmo-regular:before {
+  content: "\e932";
+}
+.fl-barcode-regular:before {
   content: "\e933";
 }
-.fl-truck-fast-solid:before {
+.fl-barcode-solid:before {
   content: "\e934";
 }
+.fl-check-regular:before {
+  content: "\e935";
+}
+.fl-check-solid:before {
+  content: "\e936";
+}
+.fl-expand-glass-ragular:before {
+  content: "\e937";
+}
+.fl-futbol-regular:before {
+  content: "\e938";
+}
+.fl-home-regular:before {
+  content: "\e939";
+}
+.fl-home-solid:before {
+  content: "\e93a";
+}
+.fl-location-dot-regular:before {
+  content: "\e93b";
+}
+.fl-location-dot-solid:before {
+  content: "\e93c";
+}
+.fl-medal-regular:before {
+  content: "\e93d";
+}
+.fl-medal-solid:before {
+  content: "\e93e";
+}
+.fl-two-card-regular:before {
+  content: "\e93f";
+}
+.fl-verified-regular:before {
+  content: "\e940";
+}
+.fl-verified-solid:before {
+  content: "\e941";
+}
+.fl-arrows-rotate-regular:before {
+  content: "\e942";
+}
+.fl-bat-regular:before {
+  content: "\e943";
+}
+.fl-circle-question-regular:before {
+  content: "\e944";
+}
+.fl-clock-regular:before {
+  content: "\e945";
+}
+.fl-fire-regular:before {
+  content: "\e946";
+}
+.fl-floater-regular:before {
+  content: "\e947";
+}
+.fl-garantia-25-regular:before {
+  content: "\e948";
+}
+.fl-heart-regular:before {
+  content: "\e949";
+}
+.fl-lock-regular:before {
+  content: "\e94a";
+}
+.fl-motofeira-regular:before {
+  content: "\e94b";
+}
+.fl-moto-regular:before {
+  content: "\e94c";
+}
+.fl-shild-check-regular:before {
+  content: "\e94d";
+}
+.fl-tag-regular:before {
+  content: "\e94e";
+}
+.fl-tag-solid:before {
+  content: "\e94f";
+}
+.fl-truck-clock-regular:before {
+  content: "\e950";
+}
+.fl-users-regular:before {
+  content: "\e951";
+}
+.fl-bag-regular:before {
+  content: "\e952";
+}
+.fl-beauty-regular:before {
+  content: "\e953";
+}
+.fl-christmas-regular:before {
+  content: "\e954";
+}
+.fl-credit-card-regular:before {
+  content: "\e955";
+}
+.fl-descount-regular:before {
+  content: "\e956";
+}
+.fl-garantia-feira-regular:before {
+  content: "\e957";
+}
+.fl-headphone-regular:before {
+  content: "\e958";
+}
+.fl-lingerie-regular:before {
+  content: "\e959";
+}
+.fl-necessaire-regular:before {
+  content: "\e95a";
+}
+.fl-new-regular:before {
+  content: "\e95b";
+}
+.fl-paper-regular:before {
+  content: "\e95c";
+}
+.fl-star-regular:before {
+  content: "\e95d";
+}
+.fl-toy-regular:before {
+  content: "\e95e";
+}
+.fl-utilities-regular:before {
+  content: "\e95f";
+}
+.fl-address-card-regular:before {
+  content: "\e960";
+}
+.fl-baby-boy-regular:before {
+  content: "\e961";
+}
+.fl-backpack-regular:before {
+  content: "\e962";
+}
+.fl-bolt-regular:before {
+  content: "\e963";
+}
+.fl-case-notebook-regular:before {
+  content: "\e964";
+}
+.fl-dress-regular:before {
+  content: "\e965";
+}
+.fl-female-wallet-regular:before {
+  content: "\e966";
+}
+.fl-make-regular:before {
+  content: "\e967";
+}
+.fl-male-wallet-regular:before {
+  content: "\e968";
+}
 .fl-truck-fast-regular:before {
-  content: "\e930";
+  content: "\e969";
 }
