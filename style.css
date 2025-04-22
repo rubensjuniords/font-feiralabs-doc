@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?jz6eu4');
-  src:  url('fonts/font-feiralabs.eot?jz6eu4#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?jz6eu4') format('truetype'),
-    url('fonts/font-feiralabs.woff?jz6eu4') format('woff'),
-    url('fonts/font-feiralabs.svg?jz6eu4#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?osu0ho');
+  src:  url('fonts/font-feiralabs.eot?osu0ho#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?osu0ho') format('truetype'),
+    url('fonts/font-feiralabs.woff?osu0ho') format('woff'),
+    url('fonts/font-feiralabs.svg?osu0ho#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,16 +25,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fl-badge-percent-solid:before {
+.fl-badge-percent-regular:before {
   content: "\e900";
 }
-.fl-circle-user-regular:before {
+.fl-badge-percent-solid:before {
   content: "\e901";
 }
-.fl-circle-user-solid:before {
+.fl-circle-user-regular:before {
   content: "\e902";
 }
-.fl-badge-percent-regular:before {
+.fl-circle-user-solid:before {
   content: "\e903";
 }
 .fl-coins-regular:before {
@@ -43,295 +43,295 @@
 .fl-coins-solid:before {
   content: "\e905";
 }
-.fl-hand-holding-dollar-regular:before {
+.fl-plane-departure-regular:before {
   content: "\e906";
 }
-.fl-hand-holding-dollar-solid:before {
+.fl-plane-departure-solid:before {
   content: "\e907";
 }
-.fl-handshake-regular:before {
+.fl-ticket-regular:before {
   content: "\e908";
 }
-.fl-handshake-solid:before {
+.fl-ticket-solid:before {
   content: "\e909";
 }
-.fl-list-check-regular:before {
+.fl-user-group-regular:before {
   content: "\e90a";
 }
-.fl-list-check-solid:before {
+.fl-user-group-solid:before {
   content: "\e90b";
 }
-.fl-ticket-regular:before {
+.fl-envelope-regular:before {
   content: "\e90c";
 }
-.fl-ticket-solid:before {
+.fl-envelope-solid:before {
   content: "\e90d";
 }
-.fl-truck-regular:before {
+.fl-hand-holding-dollar-regular:before {
   content: "\e90e";
 }
-.fl-truck-solid:before {
+.fl-hand-holding-dollar-solid:before {
   content: "\e90f";
 }
-.fl-users-line-regular:before {
+.fl-handshake-regular:before {
   content: "\e910";
 }
-.fl-users-line-solid:before {
+.fl-handshake-solid:before {
   content: "\e911";
 }
-.fl-bars-regular:before {
+.fl-list-check-regular:before {
   content: "\e912";
 }
-.fl-bars-solid:before {
+.fl-list-check-solid:before {
   content: "\e913";
 }
-.fl-box-regular:before {
+.fl-truck-regular:before {
   content: "\e914";
 }
-.fl-cart-regular:before {
+.fl-truck-solid:before {
   content: "\e915";
 }
-.fl-cart-solid:before {
+.fl-users-line-regular:before {
   content: "\e916";
 }
-.fl-clipboard-list-regular:before {
+.fl-users-line-solid:before {
   content: "\e917";
 }
-.fl-clipboard-list-solid:before {
+.fl-warehouse-regular:before {
   content: "\e918";
 }
-.fl-cubes-regular:before {
+.fl-warehouse-solid:before {
   content: "\e919";
 }
-.fl-cubes-solid:before {
+.fl-angle-down-solid:before {
   content: "\e91a";
 }
-.fl-envelope-regular:before {
+.fl-angle-left-regular:before {
   content: "\e91b";
 }
-.fl-envelope-solid:before {
+.fl-angle-left-solid:before {
   content: "\e91c";
 }
-.fl-search-glass-regular:before {
+.fl-angle-right-solid:before {
   content: "\e91d";
 }
-.fl-search-glass-solid:before {
+.fl-angle-up-solid:before {
   content: "\e91e";
 }
-.fl-user-regular:before {
+.fl-bars-regular:before {
   content: "\e91f";
 }
-.fl-user-solid:before {
+.fl-bars-solid:before {
   content: "\e920";
 }
-.fl-warehouse-regular:before {
+.fl-cart-regular:before {
   content: "\e921";
 }
-.fl-warehouse-solid:before {
+.fl-cart-solid:before {
   content: "\e922";
 }
-.fl-angle-down-regular:before {
+.fl-clipboard-list-regular:before {
   content: "\e923";
 }
-.fl-angle-down-solid:before {
+.fl-clipboard-list-solid:before {
   content: "\e924";
 }
-.fl-angle-left-regular:before {
+.fl-cubes-regular:before {
   content: "\e925";
 }
-.fl-angle-left-solid:before {
+.fl-cubes-solid:before {
   content: "\e926";
 }
-.fl-angle-right-regular:before {
+.fl-search-glass-regular:before {
   content: "\e927";
 }
-.fl-angle-right-solid:before {
+.fl-search-glass-solid:before {
   content: "\e928";
 }
-.fl-angle-up-regular:before {
+.fl-user-regular:before {
   content: "\e929";
 }
-.fl-angle-up-solid:before {
+.fl-user-solid:before {
   content: "\e92a";
 }
-.fl-arrow-right-regular:before {
+.fl-angle-down-regular:before {
   content: "\e92b";
 }
-.fl-arrow-right-solid:before {
+.fl-angle-right-regular:before {
   content: "\e92c";
 }
-.fl-box-solid:before {
+.fl-angle-up-regular:before {
   content: "\e92d";
 }
-.fl-gauge-regular:before {
+.fl-arrow-right-regular:before {
   content: "\e92e";
 }
-.fl-gauge-solid:before {
+.fl-arrow-right-solid:before {
   content: "\e92f";
 }
-.fl-store-regular:before {
+.fl-box-regular:before {
   content: "\e930";
 }
-.fl-store-solid:before {
+.fl-box-solid:before {
   content: "\e931";
 }
-.fl-dmo-regular:before {
+.fl-check-regular:before {
   content: "\e932";
 }
-.fl-barcode-regular:before {
+.fl-check-solid:before {
   content: "\e933";
 }
-.fl-barcode-solid:before {
+.fl-gauge-regular:before {
   content: "\e934";
 }
-.fl-check-regular:before {
+.fl-gauge-solid:before {
   content: "\e935";
 }
-.fl-check-solid:before {
+.fl-medal-regular:before {
   content: "\e936";
 }
-.fl-expand-glass-ragular:before {
+.fl-medal-solid:before {
   content: "\e937";
 }
-.fl-futbol-regular:before {
+.fl-store-regular:before {
   content: "\e938";
 }
-.fl-home-regular:before {
+.fl-store-solid:before {
   content: "\e939";
 }
-.fl-home-solid:before {
+.fl-verified-regular:before {
   content: "\e93a";
 }
-.fl-location-dot-regular:before {
+.fl-verified-solid:before {
   content: "\e93b";
 }
-.fl-location-dot-solid:before {
+.fl-dmo-regular:before {
   content: "\e93c";
 }
-.fl-medal-regular:before {
+.fl-barcode-regular:before {
   content: "\e93d";
 }
-.fl-medal-solid:before {
+.fl-barcode-solid:before {
   content: "\e93e";
 }
-.fl-two-card-regular:before {
+.fl-expand-glass-ragular:before {
   content: "\e93f";
 }
-.fl-verified-regular:before {
+.fl-floater-regular:before {
   content: "\e940";
 }
-.fl-verified-solid:before {
+.fl-futbol-regular:before {
   content: "\e941";
 }
-.fl-arrows-rotate-regular:before {
+.fl-garantia-25-regular:before {
   content: "\e942";
 }
-.fl-bat-regular:before {
+.fl-home-regular:before {
   content: "\e943";
 }
-.fl-circle-question-regular:before {
+.fl-home-solid:before {
   content: "\e944";
 }
-.fl-clock-regular:before {
+.fl-location-dot-regular:before {
   content: "\e945";
 }
-.fl-fire-regular:before {
+.fl-location-dot-solid:before {
   content: "\e946";
 }
-.fl-floater-regular:before {
+.fl-moto-regular:before {
   content: "\e947";
 }
-.fl-garantia-25-regular:before {
+.fl-two-card-regular:before {
   content: "\e948";
 }
-.fl-heart-regular:before {
+.fl-arrows-rotate-regular:before {
   content: "\e949";
 }
-.fl-lock-regular:before {
+.fl-bat-regular:before {
   content: "\e94a";
 }
-.fl-motofeira-regular:before {
+.fl-circle-question-regular:before {
   content: "\e94b";
 }
-.fl-moto-regular:before {
+.fl-clock-regular:before {
   content: "\e94c";
 }
-.fl-shild-check-regular:before {
+.fl-descount-regular:before {
   content: "\e94d";
 }
-.fl-tag-regular:before {
+.fl-fire-regular:before {
   content: "\e94e";
 }
-.fl-tag-solid:before {
+.fl-heart-regular:before {
   content: "\e94f";
 }
-.fl-truck-clock-regular:before {
+.fl-lock-regular:before {
   content: "\e950";
 }
-.fl-users-regular:before {
+.fl-motofeira-regular:before {
   content: "\e951";
 }
-.fl-bag-regular:before {
+.fl-shild-check-regular:before {
   content: "\e952";
 }
-.fl-beauty-regular:before {
+.fl-tag-regular:before {
   content: "\e953";
 }
-.fl-christmas-regular:before {
+.fl-tag-solid:before {
   content: "\e954";
 }
-.fl-credit-card-regular:before {
+.fl-truck-clock-regular:before {
   content: "\e955";
 }
-.fl-descount-regular:before {
+.fl-users-regular:before {
   content: "\e956";
 }
-.fl-garantia-feira-regular:before {
+.fl-bag-regular:before {
   content: "\e957";
 }
-.fl-headphone-regular:before {
+.fl-beauty-regular:before {
   content: "\e958";
 }
-.fl-lingerie-regular:before {
+.fl-credit-card-regular:before {
   content: "\e959";
 }
-.fl-necessaire-regular:before {
+.fl-garantia-feira-regular:before {
   content: "\e95a";
 }
 .fl-new-regular:before {
   content: "\e95b";
 }
-.fl-paper-regular:before {
+.fl-star-regular:before {
   content: "\e95c";
 }
-.fl-star-regular:before {
+.fl-address-card-regular:before {
   content: "\e95d";
 }
-.fl-toy-regular:before {
+.fl-baby-boy-regular:before {
   content: "\e95e";
 }
-.fl-utilities-regular:before {
+.fl-backpack-regular:before {
   content: "\e95f";
 }
-.fl-address-card-regular:before {
+.fl-bolt-regular:before {
   content: "\e960";
 }
-.fl-baby-boy-regular:before {
+.fl-case-notebook-regular:before {
   content: "\e961";
 }
-.fl-backpack-regular:before {
+.fl-christmas-regular:before {
   content: "\e962";
 }
-.fl-bolt-regular:before {
+.fl-dress-regular:before {
   content: "\e963";
 }
-.fl-case-notebook-regular:before {
+.fl-female-wallet-regular:before {
   content: "\e964";
 }
-.fl-dress-regular:before {
+.fl-headphone-regular:before {
   content: "\e965";
 }
-.fl-female-wallet-regular:before {
+.fl-lingerie-regular:before {
   content: "\e966";
 }
 .fl-make-regular:before {
@@ -340,6 +340,18 @@
 .fl-male-wallet-regular:before {
   content: "\e968";
 }
-.fl-truck-fast-regular:before {
+.fl-necessaire-regular:before {
   content: "\e969";
+}
+.fl-paper-regular:before {
+  content: "\e96a";
+}
+.fl-toy-regular:before {
+  content: "\e96b";
+}
+.fl-truck-fast-regular:before {
+  content: "\e96c";
+}
+.fl-utilities-regular:before {
+  content: "\e96d";
 }
