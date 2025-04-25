@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?p7wga2');
-  src:  url('fonts/font-feiralabs.eot?p7wga2#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?p7wga2') format('truetype'),
-    url('fonts/font-feiralabs.woff?p7wga2') format('woff'),
-    url('fonts/font-feiralabs.svg?p7wga2#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?hwdjw6');
+  src:  url('fonts/font-feiralabs.eot?hwdjw6#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?hwdjw6') format('truetype'),
+    url('fonts/font-feiralabs.woff?hwdjw6') format('woff'),
+    url('fonts/font-feiralabs.svg?hwdjw6#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -292,8 +292,14 @@
 .fl-bat-regular:before {
   content: "\e94a";
 }
+.fl-bat-solid:before {
+  content: "\e97d";
+}
 .fl-circle-question-regular:before {
   content: "\e94b";
+}
+.fl-circle-question-regular-copy:before {
+  content: "\e97e";
 }
 .fl-clock-regular:before {
   content: "\e94c";
@@ -307,8 +313,14 @@
 .fl-fire-regular:before {
   content: "\e94e";
 }
+.fl-fire-solid:before {
+  content: "\e97f";
+}
 .fl-heart-regular:before {
   content: "\e94f";
+}
+.fl-heart-solid:before {
+  content: "\e980";
 }
 .fl-lock-regular:before {
   content: "\e950";
@@ -328,8 +340,14 @@
 .fl-truck-clock-regular:before {
   content: "\e955";
 }
+.fl-truck-clock-solid:before {
+  content: "\e981";
+}
 .fl-users-regular:before {
   content: "\e956";
+}
+.fl-users-solid:before {
+  content: "\e982";
 }
 .fl-bag-regular:before {
   content: "\e957";
@@ -360,6 +378,9 @@
 }
 .fl-bolt-regular:before {
   content: "\e960";
+}
+.fl-bolt-solid:before {
+  content: "\e983";
 }
 .fl-case-notebook-regular:before {
   content: "\e961";
@@ -396,6 +417,9 @@
 }
 .fl-truck-fast-regular:before {
   content: "\e96c";
+}
+.fl-truck-fast-solid:before {
+  content: "\e984";
 }
 .fl-utilities-regular:before {
   content: "\e96d";
