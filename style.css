@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?osu0ho');
-  src:  url('fonts/font-feiralabs.eot?osu0ho#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?osu0ho') format('truetype'),
-    url('fonts/font-feiralabs.woff?osu0ho') format('woff'),
-    url('fonts/font-feiralabs.svg?osu0ho#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?p7wga2');
+  src:  url('fonts/font-feiralabs.eot?p7wga2#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?p7wga2') format('truetype'),
+    url('fonts/font-feiralabs.woff?p7wga2') format('woff'),
+    url('fonts/font-feiralabs.svg?p7wga2#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fl-brands-amex-regular:before {
+  content: "\e96e";
+}
+.fl-brands-amex-solid:before {
+  content: "\e96f";
+}
+.fl-brands-diners-regular:before {
+  content: "\e970";
+}
+.fl-brands-diners-solid:before {
+  content: "\e971";
+}
+.fl-brands-hiper-regular:before {
+  content: "\e972";
+}
+.fl-brands-hiper-solid:before {
+  content: "\e973";
+}
+.fl-brands-jcb-regular:before {
+  content: "\e974";
+}
+.fl-brands-jcb-solid:before {
+  content: "\e975";
+}
+.fl-brands-master-card-regular:before {
+  content: "\e976";
+}
+.fl-brands-master-card-solid:before {
+  content: "\e977";
+}
+.fl-brands-pix-regular:before {
+  content: "\e978";
+}
+.fl-brands-pix-solid:before {
+  content: "\e979";
+}
+.fl-brands-visa-regular:before {
+  content: "\e97a";
+}
+.fl-brands-visa-solid:before {
+  content: "\e97b";
+}
 .fl-badge-percent-regular:before {
   content: "\e900";
 }
@@ -255,6 +297,9 @@
 }
 .fl-clock-regular:before {
   content: "\e94c";
+}
+.fl-clock-solid:before {
+  content: "\e97c";
 }
 .fl-descount-regular:before {
   content: "\e94d";
