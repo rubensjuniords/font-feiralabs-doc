@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?hwdjw6');
-  src:  url('fonts/font-feiralabs.eot?hwdjw6#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?hwdjw6') format('truetype'),
-    url('fonts/font-feiralabs.woff?hwdjw6') format('woff'),
-    url('fonts/font-feiralabs.svg?hwdjw6#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?ot59ge');
+  src:  url('fonts/font-feiralabs.eot?ot59ge#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?ot59ge') format('truetype'),
+    url('fonts/font-feiralabs.woff?ot59ge') format('woff'),
+    url('fonts/font-feiralabs.svg?ot59ge#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -298,7 +298,7 @@
 .fl-circle-question-regular:before {
   content: "\e94b";
 }
-.fl-circle-question-regular-copy:before {
+.fl-circle-question-solid:before {
   content: "\e97e";
 }
 .fl-clock-regular:before {
