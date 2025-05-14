@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?masht5');
-  src:  url('fonts/font-feiralabs.eot?masht5#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?masht5') format('truetype'),
-    url('fonts/font-feiralabs.woff?masht5') format('woff'),
-    url('fonts/font-feiralabs.svg?masht5#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?tausl5');
+  src:  url('fonts/font-feiralabs.eot?tausl5#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?tausl5') format('truetype'),
+    url('fonts/font-feiralabs.woff?tausl5') format('woff'),
+    url('fonts/font-feiralabs.svg?tausl5#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fl-share-nodes-regular:before {
+  content: "\e9ca";
+}
+.fl-share-nodes-solid:before {
+  content: "\e9cb";
+}
+.fl-share-from-square-regular:before {
+  content: "\e9c6";
+}
+.fl-share-from-square-solid:before {
+  content: "\e9c7";
+}
+.fl-share-regular:before {
+  content: "\e9c8";
+}
+.fl-share-solid:before {
+  content: "\e9c9";
+}
 .fl-headphones-simple-solid:before {
   content: "\e985";
 }
