@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-feiralabs';
-  src:  url('fonts/font-feiralabs.eot?tausl5');
-  src:  url('fonts/font-feiralabs.eot?tausl5#iefix') format('embedded-opentype'),
-    url('fonts/font-feiralabs.ttf?tausl5') format('truetype'),
-    url('fonts/font-feiralabs.woff?tausl5') format('woff'),
-    url('fonts/font-feiralabs.svg?tausl5#font-feiralabs') format('svg');
+  src:  url('fonts/font-feiralabs.eot?d7n41u');
+  src:  url('fonts/font-feiralabs.eot?d7n41u#iefix') format('embedded-opentype'),
+    url('fonts/font-feiralabs.ttf?d7n41u') format('truetype'),
+    url('fonts/font-feiralabs.woff?d7n41u') format('woff'),
+    url('fonts/font-feiralabs.svg?d7n41u#font-feiralabs') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,54 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fl-book-open-regular:before {
+  content: "\e9cc";
+}
+.fl-book-open-solid:before {
+  content: "\e9cd";
+}
+.fl-gift-regular:before {
+  content: "\e9ce";
+}
+.fl-gift-solid:before {
+  content: "\e9cf";
+}
+.fl-brand-facebook:before {
+  content: "\e9d0";
+}
+.fl-brand-instagram:before {
+  content: "\e9d1";
+}
+.fl-minus-regular:before {
+  content: "\e9d2";
+}
+.fl-minus-solid:before {
+  content: "\e9d3";
+}
+.fl-notebook-regular:before {
+  content: "\e9d4";
+}
+.fl-notebook-solid:before {
+  content: "\e9d5";
+}
+.fl-pen-clip-regular:before {
+  content: "\e9d6";
+}
+.fl-pen-clip-solid:before {
+  content: "\e9d7";
+}
+.fl-pen-regular:before {
+  content: "\e9d8";
+}
+.fl-pen-solid:before {
+  content: "\e9d9";
+}
+.fl-trash-regular:before {
+  content: "\e9da";
+}
+.fl-trash-solid:before {
+  content: "\e9db";
+}
 .fl-share-nodes-regular:before {
   content: "\e9ca";
 }
